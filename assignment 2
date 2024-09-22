@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body style="background-color: rgba(84, 177, 106, 0.461);">
+  
+<h1>welcome to Alhasan mohammed's personal webpage<h1>
+    <hr>
+    <h3 style="background-color: rgb(0, 255, 98);">About me</h3>
+   <p style="background-color: rgb(127, 163, 163);">Hey there ,The name is Alhasan from IT&CS major in AUK i thrive in learning and understanding </p> 
+    <h3 style="background-color: rgb(0, 255, 98);">Projects</h3>
+    <p style="background-color: rgb(127, 163, 163);">here i will express my recent projects:</p>
+    <ul>
+        <li>weather brodcasting webpage: The best website to to keep up the weather of the world</li>
+        <li>movie library:An innter connected community to discuss about movies </li>
+        <li>movie character's catalog:The best place to get to know more about your favoritre characters</li>
+</ul>
+<h3 style="background-color: rgb(0, 255, 98);">skills</h3>
+<ol>
+    <li>SQL/POSTGRE SQL</li>
+    <li>HTML/CSS</li>
+    <li>Javascript</li>
+</ol>
+<h3 style="background-color: rgb(0, 255, 98);">coursework</h3>
+<p style="background-color: rgb(127, 163, 163);">these are the most relevent courses i have taken</p>
+<table border="20px;" style="border-color: rgb(99, 239, 120);">
+   <tr> <th style="padding: 5px;">course name</th>
+    <th style="padding: 5px;">year</th>
+    <th style="padding: 5px;">instructor</th>
+   
+</tr>
+<tr><td>Introduction to programming</td>
+    <td>2023</td>
+    <td>DR.shamal</td></tr>
+    <tr><td>Object oriented programming</td>
+        <td>2024</td>
+        <td>DR.shamal</td></tr>
+        <tr><td>Data structure and algorithm</td>
+            <td>2024</td>
+            <td>DR.shamal</td></tr>
+
+</table>
+<h3 style="background-color: rgb(0, 255, 98);">contact me</h3>
+<form>
+<label style="padding: 10px;">Name:</label><input type="text" placeholder="abdulallah" style="background-color: rgba(56, 203, 45, 0.361);">
+<br>
+<br>
+<label style="padding: 10px;">Email:</label><input type="email" placeholder="......@yahoo.com" style="background-color: rgba(56, 203, 45, 0.361);">
+<br>
+<br>
+<button type="button" style="color: antiquewhite;background-color: rgb(39, 163, 55);">submit</button>
+
+</form>
+<hr>
+
+<h3 style="background-color: rgb(0, 255, 98);">Photo gallery</h3>
+<p style="background-color: rgb(127, 163, 163);">Here are some activities I attended to:</p>
+<table>
+  <tr>
+    <td>
+      <img src="img1.jpg" alt="photo of leopard radio" width="300px">
+    </td>
+    <td>
+      <img src="img2.jpg" alt="newly made website" width="300px" height="200">
+    </td>
+  </tr>
+</table>
+<h3 style="background-color: rgb(0, 255, 98);">favorite quote</h3>
+<p style="background-color: rgb(127, 163, 163);">"If pain is inevitable, I’ll wield the blade myself."</p>
+<hr>
+©️2024 Alhasan mohammed. All rights reserved.
+</body>
+</html>
