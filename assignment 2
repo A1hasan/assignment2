@@ -9,23 +9,23 @@
   
 <h1>welcome to Alhasan mohammed's personal webpage<h1>
     <hr>
-    <h3 style="background-color: rgb(0, 255, 98);">About me</h3>
-   <p style="background-color: rgb(127, 163, 163);">Hey there ,The name is Alhasan from IT&CS major in AUK i thrive in learning and understanding </p> 
-    <h3 style="background-color: rgb(0, 255, 98);">Projects</h3>
-    <p style="background-color: rgb(127, 163, 163);">here i will express my recent projects:</p>
+    <h3 style="background-color: rgb(0, 255, 98);text-align: center;">About me</h3>
+   <p style="background-color: rgb(127, 163, 163);text-align: center;">Hey there ,The name is Alhasan from IT&CS major in AUK i thrive in learning and understanding </p> 
+    <h3 style="background-color: rgb(0, 255, 98);text-align: center;">Projects</h3>
+    <p style="background-color: rgb(127, 163, 163);text-align: center;">here i will express my recent projects:</p>
     <ul>
         <li>weather brodcasting webpage: The best website to to keep up the weather of the world</li>
         <li>movie library:An innter connected community to discuss about movies </li>
         <li>movie character's catalog:The best place to get to know more about your favoritre characters</li>
 </ul>
-<h3 style="background-color: rgb(0, 255, 98);">skills</h3>
+<h3 style="background-color: rgb(0, 255, 98);text-align: center;">skills</h3>
 <ol>
     <li>SQL/POSTGRE SQL</li>
     <li>HTML/CSS</li>
     <li>Javascript</li>
 </ol>
-<h3 style="background-color: rgb(0, 255, 98);">coursework</h3>
-<p style="background-color: rgb(127, 163, 163);">these are the most relevent courses i have taken</p>
+<h3 style="background-color: rgb(0, 255, 98);text-align: center;">coursework</h3>
+<p style="background-color: rgb(127, 163, 163);text-align: center;">these are the most relevent courses i have taken</p>
 <table border="20px;" style="border-color: rgb(99, 239, 120);">
    <tr> <th style="padding: 5px;">course name</th>
     <th style="padding: 5px;">year</th>
@@ -43,7 +43,7 @@
             <td>DR.shamal</td></tr>
 
 </table>
-<h3 style="background-color: rgb(0, 255, 98);">contact me</h3>
+<h3 style="background-color: rgb(0, 255, 98);text-align: center;">contact me</h3>
 <form>
 <label style="padding: 10px;">Name:</label><input type="text" placeholder="abdulallah" style="background-color: rgba(56, 203, 45, 0.361);">
 <br>
@@ -56,8 +56,8 @@
 </form>
 <hr>
 
-<h3 style="background-color: rgb(0, 255, 98);">Photo gallery</h3>
-<p style="background-color: rgb(127, 163, 163);">Here are some activities I attended to:</p>
+<h3 style="background-color: rgb(0, 255, 98);text-align: center;">Photo gallery</h3>
+<p style="background-color: rgb(127, 163, 163);text-align: center;">Here are some activities I attended to:</p>
 <table>
   <tr>
     <td>
@@ -68,8 +68,8 @@
     </td>
   </tr>
 </table>
-<h3 style="background-color: rgb(0, 255, 98);">favorite quote</h3>
-<p style="background-color: rgb(127, 163, 163);">"If pain is inevitable, I’ll wield the blade myself."</p>
+<h3 style="background-color: rgb(0, 255, 98);text-align: center;">favorite quote</h3>
+<p style="background-color: rgb(127, 163, 163);text-align: center;">"If pain is inevitable, I’ll wield the blade myself."</p>
 <hr>
 ©️2024 Alhasan mohammed. All rights reserved.
 </body>
